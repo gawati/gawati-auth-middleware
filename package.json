@@ -1,0 +1,25 @@
+{
+  "name": "gawati-auth-middleware",
+  "version": "1.0.0",
+  "description": "NodeJS Auth Middleware for Gawati ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gawati/gawati-auth-middleware.git"
+  },
+  "author": "Ashok Hariharan <ashok@hariharan.org.in>",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gawati/gawati-auth-middleware/issues"
+  },
+  "homepage": "https://github.com/gawati/gawati-auth-middleware#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "querystring": "^0.2.0",
+    "serialize-error": "^2.1.0",
+    "winston": "^2.4.1"
+  }
+}
